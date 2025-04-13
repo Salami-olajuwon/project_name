@@ -609,6 +609,7 @@ footer p {
   #contact,
   footer {
     height: 40vh;
+    display: block;
   }
 
   #profile {
