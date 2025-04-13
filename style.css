@@ -516,7 +516,7 @@ article p {
 footer {
   height: 26vh;
   margin: 0 1rem;
-  
+  display: block;
 }
 
 footer p {
